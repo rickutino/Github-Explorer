@@ -38,7 +38,10 @@ Here will be the images and descriptions. Principal content.
 ## Features
  
   - Here will be the features.
- 
+  - 	🚧  React 🚀 under construction...  🚧
+    - [x] Init project
+    - [x] create Readme.md
+    - [ ] setting Eslint,Prettier and Editor Config
  
 ## Links
  
