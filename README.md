@@ -1,7 +1,5 @@
 ![Logo of the project](public/readme_images/logo.png)
 
-
-![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
  
 ## React with Typescript
  
@@ -78,6 +76,9 @@ Here will be the images and descriptions. Principal content.
 
 ## License
 [MIT](https://LICENSE.md/)
+ 
+ 
+ 
  
  
 Please follow github and join us!
