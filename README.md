@@ -1,17 +1,33 @@
 ![Logo of the project](public/readme_images/logo.png)
+
+
+![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
  
-## Name_of_the_project
+## React with Typescript
  
 Using React with Typescript and making the initial setting with Eslint,Prettier and Editor Config.
+
  
- 
+## Table of contents
+<!--ts-->
+   * [Technology](#technology)
+   * [Services Used](#services-used)
+   * [Library](#library)
+   * [Getting started](#getting-started)
+   * [How to use](#how-to-use)
+   * [Features](#features)
+   * [Links](#links)
+   * [Versioning](#versioning)
+   * [Authors](#authors)
+   * [License](#license)
+<!--te-->
+
 ## Technology 
  
 Here are the technologies used in this project.
  
-* Node version  v12.17.0
-* React version 16.13.1
-* Yarn version 1.22.4
+- [Node.js](https://nodejs.org/en/)
+- [React](https://ja.reactjs.org/)
  
  
 ## Services Used
@@ -37,11 +53,10 @@ Here will be the images and descriptions. Principal content.
  
 ## Features
  
-  - Here will be the features.
-  - 	🚧  React 🚀 under construction...  🚧
-    - [x] Init project
-    - [x] create Readme.md
-    - [ ] setting Eslint,Prettier and Editor Config
+  	🚧  React 🚀 under construction...  🚧
+   - [x] Init project
+   - [x] create Readme.md
+   - [ ] setting Eslint,Prettier and Editor Config
  
 ## Links
  
@@ -60,6 +75,9 @@ Here will be the images and descriptions. Principal content.
 ## Authors
  
 * **RICARDO UTINO**: @rickutino (https://github.com/rickutino)
+
+## License
+[MIT](https://LICENSE.md/)
  
  
 Please follow github and join us!
