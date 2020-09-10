@@ -1,44 +1,72 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo of the project](public/readme_images/logo.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+## React with Typescript==Template
 
-### `yarn start`
+Using React with Typescript and making the initial setting with Eslint,Prettier and Editor Config.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Table of contents
+<!--ts-->
+   * [Technology](#technology)
+   * [Services Used](#services-used)
+   * [Library](#library)
+   * [Getting started](#getting-started)
+   * [How to use](#how-to-use)
+   * [Features](#features)
+   * [Versioning](#versioning)
+   * [Authors](#authors)
+   * [License](#license)
+<!--te-->
 
-### `yarn test`
+## Technology
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here are the technologies used in this project.
 
-### `yarn build`
+- [Node.js](https://nodejs.org/en/)
+- [React](https://ja.reactjs.org/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Library
+- Eslint v6.8.0
+- Prettier v2.1.1
+- Editor config v3.0.3
 
-### `yarn eject`
+## Getting started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* To install dependency:
+>    $ yarn
+* To run the project:
+>    $ yarn start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Here will be the images and descriptions. Principal content.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   - [x] Init project
+   - [x] create Readme.md
+   - [x] setting Eslint,Prettier and Editor Config
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Versioning
+
+1.0.0.0
+
+
+## Authors
+
+* **RICARDO UTINO**: @rickutino (https://github.com/rickutino)
+
+## License
+[MIT](https://LICENSE.md/)
+
+
+
+
+
+Please follow github and join us!
+Thanks to visiting me and good coding!
