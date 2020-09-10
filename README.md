@@ -1,10 +1,8 @@
 ![Logo of the project](public/readme_images/logo.png)
 
 
-
 ## Github Explorer
 
-# 🚧  React Select 🚀 Em construção...  🚧
 Application to filter github users.
 
 
@@ -16,7 +14,6 @@ Application to filter github users.
    * [Getting started](#getting-started)
    * [How to use](#how-to-use)
    * [Features](#features)
-   * [Links](#links)
    * [Versioning](#versioning)
    * [Authors](#authors)
    * [License](#license)
@@ -51,21 +48,9 @@ Here will be the images and descriptions. Principal content.
 
 ## Features
 
-   - [ ] Create Router
-   - [ ] Styled components
-   - [ ] Create DashBoard page
-   - [ ] Connection to API
-   - [ ] Exception handling
-   - [ ] Saving to Storage
-
-
-## Links
-
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+   - [x] Init project
+   - [x] create Readme.md
+   - [x] setting Eslint,Prettier and Editor Config
 
 
 ## Versioning
