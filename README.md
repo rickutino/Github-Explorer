@@ -1,7 +1,7 @@
 ![Logo of the project](public/readme_images/logo.png)
 
 
-## React with Typescript
+## React with Typescript--Template
 
 Using React with Typescript and making the initial setting with Eslint,Prettier and Editor Config.
 
@@ -28,14 +28,11 @@ Here are the technologies used in this project.
 - [React](https://ja.reactjs.org/)
 
 
-## Services Used
-
-* Github
-* ...
-
 
 ## Library
 - Eslint v6.8.0
+- Prettier v2.1.1
+- Editor config v3.0.3
 
 ## Getting started
 
@@ -51,10 +48,9 @@ Here will be the images and descriptions. Principal content.
 
 ## Features
 
-  	🚧  React 🚀 under construction...  🚧
    - [x] Init project
    - [x] create Readme.md
-   - [ ] setting Eslint,Prettier and Editor Config
+   - [x] setting Eslint,Prettier and Editor Config
 
 ## Links
 
