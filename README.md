@@ -1,9 +1,9 @@
 ![Logo of the project](public/readme_images/logo.png)
 
 
-## Github Explorer
+## React with Typescript==Template
 
-Application to filter github users.
+Using React with Typescript and making the initial setting with Eslint,Prettier and Editor Config.
 
 
 ## Table of contents
@@ -32,7 +32,6 @@ Here are the technologies used in this project.
 - Eslint v6.8.0
 - Prettier v2.1.1
 - Editor config v3.0.3
-- react-router-dom
 
 ## Getting started
 
