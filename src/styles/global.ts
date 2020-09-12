@@ -3,6 +3,11 @@ import { createGlobalStyle } from 'styled-components';
 import githubImg from '../assets/github_img.svg';
 
 export default createGlobalStyle`
+  :root {
+  --black: #3a3a3a;
+  --primary: #04d361;
+  --white: #fff;
+  }
   * {
     margin: 0;
     padding: 0;
