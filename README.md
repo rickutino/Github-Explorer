@@ -35,7 +35,9 @@ Here are the technologies used in this project.
 - Eslint v6.8.0
 - Prettier v2.1.1
 - Editor config v3.0.3
-- react-router-dom
+- react-router-dom v^5.2.0
+- styled-components v^5.2.0
+- polished v^3.6.6
 
 ## Getting started
 
