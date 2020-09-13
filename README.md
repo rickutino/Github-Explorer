@@ -39,6 +39,7 @@ Here are the technologies used in this project.
 - styled-components v^5.2.0
 - polished v^3.6.6
 - react-icons v1.22.4
+- axios v1.22.4
 
 ## Getting started
 
