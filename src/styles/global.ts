@@ -4,9 +4,12 @@ import githubImg from '../assets/github_img.svg';
 
 export default createGlobalStyle`
   :root {
-  --black: #3a3a3a;
-  --primary: #04d361;
+  --text-black: #3a3a3a;
+  --color-primary: #04d361;
   --white: #fff;
+  --second-text-white: #a8a8b3;
+  --color-text-strong: #3D3D4D;
+  --icon-color: #cbcbd6;
   }
   * {
     margin: 0;
@@ -27,7 +30,7 @@ export default createGlobalStyle`
   #root {
     max-width: 960px;
     margin: 0 auto;
-    padding: 2.5rem 1.25rem;
+    padding: 0 1.25rem 2.5rem;
   }
 
   button {
