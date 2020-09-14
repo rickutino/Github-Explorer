@@ -4,7 +4,7 @@
 
 ## Github Explorer
 
-# 🚧  React Select 🚀 Em construção...  🚧
+# 🚧  React+TypeScript 🚀 contruction application...  🚧
 Application to filter github users.
 
 
