@@ -8,7 +8,10 @@ export default createGlobalStyle`
   --color-primary: #04d361;
   --white: #fff;
   --second-text-white: #a8a8b3;
+  --second-text-white-dark: #666;
   --color-text-strong: #3D3D4D;
+  --color-text-span: #6c6c80;
+  --second-color-text-strong: #737380;
   --icon-color: #cbcbd6;
   --error-color: #c53030;
   }
