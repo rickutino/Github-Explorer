@@ -55,12 +55,13 @@ Here will be the images and descriptions. Principal content.
 
 ## Features
 
-   - [ ] Create Router
-   - [ ] Styled components
-   - [ ] Create DashBoard page
-   - [ ] Connection to API
-   - [ ] Exception handling
-   - [ ] Saving to Storage
+   - [X] Create Router
+   - [X] Styled components
+   - [X] Create DashBoard page
+   - [ ] Create Repository page
+   - [X] Connection to API
+   - [X] Exception handling
+   - [X] Saving to Storage
 
 
 ## Links
