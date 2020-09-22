@@ -4,8 +4,8 @@
 
 ## Github Explorer
 
-# 🚧  React+TypeScript 🚀 contruction application...  🚧
-Application to filter github users.
+#  React+TypeScript 🚀
+Application to filter Issues and PR to github users.
 
 
 ## Table of contents
@@ -28,7 +28,7 @@ Here are the technologies used in this project.
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://ja.reactjs.org/)
-
+- [Typescript](https://www.typescriptlang.org/)
 
 
 ## Library
@@ -43,6 +43,10 @@ Here are the technologies used in this project.
 
 ## Getting started
 
+* Clone this Repository in your terminal:
+>    $ git clone https://github.com/rickutino/Github-Explorer.git
+* Entry to directory:
+>    $ cd Github-Explorer
 * To install dependency:
 >    $ yarn
 * To run the project:
@@ -50,15 +54,24 @@ Here are the technologies used in this project.
 
 ## How to use
 
-Here will be the images and descriptions. Principal content.
 
+### home page, insert in the input which repository you want to search
+<!--ts-->
+<img width="900" alt="スクリーンショット 2020-09-22 13 23 25" src="https://user-images.githubusercontent.com/48019175/93844496-493b9b00-fcd8-11ea-915a-93330e0afbd8.png">
+
+### select the repository to see the pending issue and pull requests
+<!--ts-->
+<img width="900" alt="スクリーンショット 2020-09-22 13 17 52" src="https://user-images.githubusercontent.com/48019175/93844652-e7c7fc00-fcd8-11ea-8d37-548da55672a7.png">
+
+<!--ts-->
+<img width="900" alt="スクリーンショット 2020-09-22 13 18 03" src="https://user-images.githubusercontent.com/48019175/93844767-455c4880-fcd9-11ea-944e-be6491f1b54e.png">
 
 ## Features
 
    - [X] Create Router
    - [X] Styled components
    - [X] Create DashBoard page
-   - [ ] Create Repository page
+   - [X] Create Repository page
    - [X] Connection to API
    - [X] Exception handling
    - [X] Saving to Storage
