@@ -7,11 +7,11 @@ import logoImg from '../../assets/logo.png';
 import { ImgLogo, Title, Form, Repositories, Error } from './styles';
 
 interface Repository {
-  full_name: string;
+  full_name: string; //eslint-disable-line
   description: string;
   owner: {
     login: string;
-    avatar_url: string;
+    avatar_url: string; //eslint-disable-line
   };
 }
 
