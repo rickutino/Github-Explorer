@@ -94,7 +94,7 @@ Here are the technologies used in this project.
 * **RICARDO UTINO**: @rickutino (https://github.com/rickutino)
 
 ## License
-[MIT](https://LICENSE.md/)
+[MIT License](https://LICENSE.md/)
 
 
 
