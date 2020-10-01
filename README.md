@@ -3,7 +3,7 @@
 
 
 
-## Github Explorer
+
 
 #  React+TypeScript 🚀
 Application to filter Issues and PR to github users.
