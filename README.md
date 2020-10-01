@@ -27,7 +27,6 @@ Application to filter Issues and PR to github users.
 
 Here are the technologies used in this project.
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://ja.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
