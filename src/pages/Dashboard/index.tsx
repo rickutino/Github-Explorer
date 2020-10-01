@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import api from '../../services/api';
 
 import logoImg from '../../assets/logo.png';
-import { ImgLogo, Title, Form, Repositories, Error } from './styles';
+import { ImgLogo, Title, Form, Repositories, Error, Footer } from './styles';
 
 interface Repository {
   full_name: string; //eslint-disable-line
@@ -91,6 +91,7 @@ const Dashboard: React.FC = () => {
           </Link>
         ))}
       </Repositories>
+      <Footer>Copyright (c) 2020 Ricardo Uchino</Footer>
     </>
   );
 };
