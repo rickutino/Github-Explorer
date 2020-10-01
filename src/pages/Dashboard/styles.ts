@@ -124,4 +124,6 @@ export const Footer = styled.footer`
   align-items: center;
   justify-content: center;
   color: var(--color-text-strong);
+  position: absolute;
+  bottom: 0;
 `;
