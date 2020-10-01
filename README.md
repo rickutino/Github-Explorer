@@ -1,4 +1,5 @@
-![Logo of the project](public/readme_images/logo.png)
+![image](https://user-images.githubusercontent.com/48019175/94808481-2aea4380-042c-11eb-8359-66c873a1afa5.png)
+
 
 
 
@@ -80,11 +81,8 @@ Here are the technologies used in this project.
 ## Links
 
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
-
+  - Repository: https://github-explorer.ricardo-uchino.com
+  
 
 ## Versioning
 
