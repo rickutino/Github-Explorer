@@ -4,7 +4,7 @@ import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 import api from '../../services/api';
 
 import logoImg from '../../assets/logo.png';
-import { Header, RepositoryInfo, Issues } from './styles';
+import { Header, RepositoryInfo, Issues, Footer } from './styles';
 
 interface RepositoryParams {
   repository: string;
@@ -106,6 +106,7 @@ const Repository: React.FC = () => {
           </a>
         ))}
       </Issues>
+      <Footer>Copyright (c) 2020 Ricardo Uchino</Footer>
     </>
   );
 };

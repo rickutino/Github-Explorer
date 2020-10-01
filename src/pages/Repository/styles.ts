@@ -120,3 +120,11 @@ export const Issues = styled.main`
     }
   }
 `;
+
+export const Footer = styled.footer`
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-text-strong);
+`;
